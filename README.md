@@ -1,2 +1,2 @@
 # Pagina do Portifólio
-- Link para acessar: https://ederzoca.github.io/#index.html#portfolio
+- Link para o Github Pages: https://ederzoca.github.io/
